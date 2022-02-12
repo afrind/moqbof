@@ -54,7 +54,7 @@ The purpose of this BoF is to:
 
 ## BoF Non-goals
 
-1. It is possible that after the BoF we will decide that a single MoQ protocol will meet all the needs of the user cases and requirements, but we shouldn't work too hard on making that happen, during our discussions. 
+1. It is possible that after the BoF we will decide that a single protocol will meet all the needs of the user cases and requirements, but we shouldn't work too hard on making that happen, during our discussions. 
 
 ## Post-BoF Goals
 
