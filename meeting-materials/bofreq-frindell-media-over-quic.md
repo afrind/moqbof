@@ -1,6 +1,13 @@
-# Name: Media Over QUIC
+# Name: Media Over QUIC (MOQ)
 # Description
 There are video/media related use-cases that do not appear to be well met by existing protocols.
+
+## Issue tracking for this BOF description 
+
+* This BOF description is being maintained in the GitHub repository at https://github.com/afrind/moqbof/.
+* Issues to be discussed (and, if possible, resolved) on this BOF description and agenda can be found at https://github.com/afrind/moqbof/issues.
+* Alan Frindell provided summaries of feedback from the IESG and IAB on the BOF request as Issues 1-5. Discussion on these issues is, of course, welcomed as well. 
+* Issues added to the GitHub repository should be discussed on the MOQ mailing list (details below). Minor editorial comments may be discussed in the GitHub repository itself. 
 
 ## Media Ingest Use Case
 Example: live stream broadcast, with later video-on-demand playback.
