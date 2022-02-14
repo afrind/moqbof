@@ -45,13 +45,21 @@ Example: 10k+ viewers watching a live broadcast with different quality networks
     5. Tight coupling between media framing and transport. 
 3. Others: No browser support.
 
-## BoF Goal
+## BoF Goals
 The purpose of this BoF is to:
 
 1. Determine if there is an existing protocol that can meet these use cases and requirements.
 2. If not, is there an existing protocol that could be easily extended to meet these use cases
 3. If not, is there agreement we should forge a new protocol to meet these use cases
-4. If so, determine whether an existing working group or a new working group is best suited to work on this protocol.
+
+## BoF Non-goals
+
+1. It is possible that after the BoF we will decide that a single protocol will meet all the needs of the user cases and requirements, but we shouldn't work too hard on making that happen, during our discussions. 
+
+## Post-BoF Goals
+
+1. If we must extend an existing protocol(s) or forge a new protocol(s) to meet these requirements, determine whether an existing working group(s) or a new working group(s) will be best suited to carry out work on this protocol (s).
+2. If this work does not fit cleanly into one IETF area (probably ART or TSV), determine which area will be best-suited for the work. 
 
 # Required Details
 * Status: not WG Forming
