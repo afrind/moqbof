@@ -17,8 +17,8 @@ The purpose of this BoF is to:
 
 1. Identify media-related use cases with a significant interested community that are not well supported by existing protocols
 2. Understand the gaps implementers encounter in using existing protocols to meet the needs of each use case
-2. Understand whether these existing protocols could reasonably be extended to meet each use case
-3. If not, is there agreement we should forge a new protocol to meet this use case?
+3. Understand whether these existing protocols could reasonably be extended to meet each use case
+4. If not, is there agreement we should forge a new protocol to meet these use cases?
 
 ### BoF Non-goals
 
