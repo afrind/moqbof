@@ -8,7 +8,7 @@ There are video/media related use-cases that do not appear to be well met by exi
 * This BOF description is being maintained in the GitHub repository at https://github.com/afrind/moqbof/.
 * Issues to be discussed (and, if possible, resolved) on this BOF description and agenda can be found at https://github.com/afrind/moqbof/issues.
 * New issues can be raised in this repository, or on the MOQ mailing list (details below). 
-* The BOF co-chairs (details below) welcome discussion on these issues on the MOQ mailing list (details below). You don't need to wait for the BOF to start, to express an opinion! 
+* The BOF co-chairs (details below) welcome discussion on these issues on the MOQ mailing list (details below). You don't need to wait for the BOF to start to express an opinion! 
 
 # BOF Scope
 
