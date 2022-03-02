@@ -22,11 +22,11 @@ The purpose of this BoF is to:
 
 ### BoF Non-goals
 
-1. It is possible that after the BoF we will decide that a single protocol will meet all the needs of the use cases, but we shouldn't work too hard on making that happen, during our discussions. 
+1. It is possible that after the BoF we will decide that a single protocol will meet all the needs of the targeted use cases, but we shouldn't work too hard on making that happen, during our discussions. 
 
 ### Post-BoF Goals
 
-1. If we must extend an existing protocol(s) or forge a new protocol(s) to meet these requirements, determine whether an existing working group(s) or a new working group(s) will be best suited to carry out work on this protocol (s).
+1. If we must extend an existing protocol(s) or forge a new protocol(s) to meet these requirements, determine whether an existing working group(s) or a new working group(s) will be best suited to carry out work on this protocol(s).
 2. If this work does not fit cleanly into one IETF area (probably ART or TSV), determine which area will be best-suited for the work. 
 
 ## Media Ingest Use Case
