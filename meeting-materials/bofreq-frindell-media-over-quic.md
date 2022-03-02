@@ -1,13 +1,33 @@
 # Name: Media Over QUIC (MOQ)
 # Description
-There are video/media related use-cases that do not appear to be well met by existing protocols.
 
-## Issue tracking for this BOF description 
+There are video/media related use-cases that do not appear to be well met by existing protocols. This is a non-WG-forming BOF to discuss these use cases, and determine how to go forward. 
+
+## Issue tracking for this BOF description and agenda
 
 * This BOF description is being maintained in the GitHub repository at https://github.com/afrind/moqbof/.
 * Issues to be discussed (and, if possible, resolved) on this BOF description and agenda can be found at https://github.com/afrind/moqbof/issues.
-* Alan Frindell provided summaries of feedback from the IESG and IAB on the BOF request as Issues 1-5. Discussion on these issues is, of course, welcomed as well. 
-* Issues added to the GitHub repository should be discussed on the MOQ mailing list (details below). Minor editorial comments may be discussed in the GitHub repository itself. 
+* New issues can be raised in this repository, or on the MOQ mailing list (details below). 
+* The BOF co-chairs (details below) welcome discussion on these issues on the MOQ mailing list (details below). You don't need to wait for the BOF to start to express an opinion! 
+
+# BOF Scope
+
+## BoF Goals
+The purpose of this BoF is to:
+
+1. Identify media-related use cases with a significant interested community that are not well supported by existing protocols
+2. Understand the gaps implementers encounter in using existing protocols to meet the needs of each use case
+3. Understand whether these existing protocols could reasonably be extended to meet each use case
+4. If not, is there agreement we should forge a new protocol to meet these use cases?
+
+### BoF Non-goals
+
+1. It is possible that after the BoF we will decide that a single protocol will meet all the needs of the targeted use cases, but we shouldn't work too hard on making that happen, during our discussions. 
+
+### Post-BoF Goals
+
+1. If we must extend an existing protocol(s) or forge a new protocol(s) to meet these requirements, determine whether an existing working group(s) or a new working group(s) will be best suited to carry out work on this protocol(s).
+2. If this work does not fit cleanly into one IETF area (probably ART or TSV), determine which area will be best-suited for the work. 
 
 ## Media Ingest Use Case
 Example: live stream broadcast, with later video-on-demand playback.
@@ -52,27 +72,11 @@ Example: 10k+ viewers watching a live broadcast with different quality networks
     5. Tight coupling between media framing and transport. 
 3. Others: No browser support.
 
-## BoF Goals
-The purpose of this BoF is to:
-
-1. Determine if there is an existing protocol that can meet these use cases and requirements.
-2. If not, is there an existing protocol that could be easily extended to meet these use cases
-3. If not, is there agreement we should forge a new protocol to meet these use cases
-
-## BoF Non-goals
-
-1. It is possible that after the BoF we will decide that a single protocol will meet all the needs of the user cases and requirements, but we shouldn't work too hard on making that happen, during our discussions. 
-
-## Post-BoF Goals
-
-1. If we must extend an existing protocol(s) or forge a new protocol(s) to meet these requirements, determine whether an existing working group(s) or a new working group(s) will be best suited to carry out work on this protocol (s).
-2. If this work does not fit cleanly into one IETF area (probably ART or TSV), determine which area will be best-suited for the work. 
-
 # Required Details
 * Status: not WG Forming
-* Responsible AD: Murray Kucherawy
-* BOF proponents: Alan Frindell afrind@fb.com, Ying Yin yingyin@google.com
-* BOF chairs: Magnus Westerlund, Alan Frindell
+* Responsible AD: Murray Kucherawy <superuser@gmail.com>
+* BOF proponents: Alan Frindell <afrind@fb.com> and Ying Yin <yingyin@google.com>
+* BOF chairs: Magnus Westerlund <magnus.westerlund@ericsson.com> and Alan Frindell <afrind@fb.com>
 * Number of people expected to attend: 50
 * Length of session (1 or 2 hours): 2 hours
 * Conflicts (whole Areas and/or WGs)
