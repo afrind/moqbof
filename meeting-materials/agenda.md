@@ -16,6 +16,7 @@ Please direct comments to the moq mailing list.
 
     * 20  min for presentation
     * 10 min clarifying question and missed cases
+
 3. 10:40 Media Contribution Use Case (20 min) - Ying Yin
     * Detailed view of use cases and problems and challenges with current protocols
     * 10 min presentation
