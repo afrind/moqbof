@@ -27,8 +27,8 @@ Please direct comments to the moq mailing list.
     * 10 min presentation
     * 5 min clarifying questions
 
-5. 11:00 QuicR Architecture (15 min) - Culling Jennings
-    * Proposal for satisfying multiple use cases with a common architecture
+5. 11:00 Range of Architectures (15 min) - Culling Jennings
+    * Satisfying multiple use cases with a common architecture
     * 10 min presentation
     * 5 min clarifying questions
 
