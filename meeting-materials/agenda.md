@@ -4,7 +4,7 @@ Chairs: Magnus Westerlund, Alan Frindell
 We are meeting to discuss Media over QUIC use cases and requirements, challenges and gaps in current protocols
 and gather input for the direction and next steps for this work.  
 
-Please direct comments to the moq mailing list.
+Please direct comments to the moq mailing list: moq@ietf.org. [Subscribe to MOQ](https://www.ietf.org/mailman/listinfo/moq)
 
 1. 10:00  Administrative Details (10 min) – Chairs
     1. Admin: Note Well, Note taker
