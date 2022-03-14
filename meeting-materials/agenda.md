@@ -7,13 +7,12 @@ and gather input for the direction and next steps for this work.
 Please direct comments to the moq mailing list: moq@ietf.org. [Subscribe to MOQ](https://www.ietf.org/mailman/listinfo/moq)
 
 1. 10:00  Administrative Details (10 min) – Chairs
-    1. Admin: Note Well, Note taker
-    2. BOF Goal Setting
+    * Admin: Note Well, Note taker
+    * BOF Goal Setting
 
 2. 10:10 Use case overview (20 min) – James Gruessing
-    1. Present overview of use cases
-    2. What QUIC Brings to table
-
+    * Present overview of use cases
+    * What QUIC Brings to table
     * 15 min for presentation
     * 5 min clarifying question
 
