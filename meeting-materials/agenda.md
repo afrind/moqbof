@@ -36,7 +36,7 @@ Please direct comments to the moq mailing list: moq@ietf.org. [Subscribe to MOQ]
     * Are the proposed use cases those that should be prioritized?
     * Assume similar model to QUIC with focused work, potential for future expansion to other use cases.
 
-6. 11:50 Wrap Up and Next Steps – Chairs and AD
+7. 11:50 Wrap Up and Next Steps – Chairs and AD
 
 Relevant Drafts:
 
