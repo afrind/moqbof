@@ -26,7 +26,7 @@ Please direct comments to the moq mailing list: moq@ietf.org. [Subscribe to MOQ]
     * 10 min presentation
     * 5 min clarifying questions
 
-5. 11:00 Range of Architectures (15 min) - Culling Jennings
+5. 11:00 Range of Architectures (15 min) - Cullen Jennings
     * Satisfying multiple use cases with a common architecture
     * 10 min presentation
     * 5 min clarifying questions
